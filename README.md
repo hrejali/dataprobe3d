@@ -17,12 +17,12 @@ returned to the user in the upper right corner.
 Contributors
 -------------
 Jason Kai, Saeed Bakhshmand, Hossein Rejali, Brian Wang, Serene Abu-Sardanah
-KhanLab, Robarts Research Institute, Western University and
-CSTAR, London Health Sciences Centre, Western University
+<br>KhanLab, Robarts Research Institute, Western University and
+<br>CSTAR, London Health Sciences Centre, Western University
 
-.. topic:: **Thanks**
-    * The experts present at Slicer Week Western for their support and guidance in the 
+  **Thanks**
+    <br>* The experts present at Slicer Week Western for their support and guidance in the 
       development of this tool
-    * The developer (Steve Pieper) and contributers of the existing Slicer dataprobe.
-    * The organizing committee of Slicer Project Week Western for providing an environment which
+    <br>* The developer (Steve Pieper) and contributers of the existing Slicer dataprobe.
+    <br>* The organizing committee of Slicer Project Week Western for providing an environment which
       made the development possible.
