@@ -26,3 +26,13 @@ Jason Kai, Saeed Bakhshmand, Hossein Rejali, Brian Wang, Serene Abu-Sardanah
     <br>* The developer (Steve Pieper) and contributers of the existing Slicer dataprobe.
     <br>* The organizing committee of Slicer Project Week Western for providing an environment which
       made the development possible.
+
+Screenshots
+------------
+![DataProbe3D with volume](http://wiki.imaging.robarts.ca/images/thumb/9/97/DataProbe_wVolume.png/800px-DataProbe_wVolume.png)
+
+DataProbe3D extracting quantitative value from 3D volume.
+
+![DataProbe3d without volume](http://wiki.imaging.robarts.ca/images/thumb/9/91/DataProbe_noVolume.png/800px-DataProbe_noVolume.png)
+
+DataProbe3D returning only RAS position with no 3D volume.
