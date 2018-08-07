@@ -1,6 +1,8 @@
 # dataprobe3d
 ===============
 
+Note: This project is not actively maintained.
+
 DataProbe3D was developed as a part of the Slicer Project Week Western
 <http://wiki.imaging.robarts.ca/index.php/Main_Page>
 
